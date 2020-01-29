@@ -24,7 +24,7 @@ HTTP GET example url: http://localhost:8080/employees/1
 
 HTTP DELETE example url: http://localhost:8080/employees/1
 
-HTTP POST BODY example url: http://localhost:8080/employees/1
+HTTP PUT BODY example url: http://localhost:8080/employees/1
  
  ```json
 {
